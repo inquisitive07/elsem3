@@ -1,0 +1,6 @@
+cluster_id,size,label,consensus,subjectivity,polarity,sensitive_topics
+0,1,Benign Cluster,1.0,0.136,-0.136,None
+1,14,Radicalization Node,0.857,0.739,0.739,"vote, religion, war, hate"
+2,18,Radicalization Node,1.0,0.98,0.98,war
+3,11,Radicalization Node,0.818,0.645,0.645,vote
+4,6,Radicalization Node,0.667,0.645,0.437,war
